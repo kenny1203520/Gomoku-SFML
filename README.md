@@ -1,1 +1,1 @@
-# Gomoku-SFML
+# Gomoku
